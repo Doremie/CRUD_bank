@@ -1,7 +1,6 @@
 # CRUD_bank
 
-##login 
-dapat digunakan untuk login admin dan user
+##login (user dan admin)
 ![image](https://github.com/Doremie/CRUD_bank/assets/62737597/4e80d00b-a990-447c-9a79-83e0eb871121)
 
 ##Registrasi data baru
